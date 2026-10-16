@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phongminhto.com/sitemap.xml
