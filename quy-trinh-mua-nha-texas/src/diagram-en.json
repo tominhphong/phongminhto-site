@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Texas home buying process",
+    "subtitle": "Existing (resale) home, bought with a mortgage",
+    "description": "Map of the steps from pre-approval to receiving keys, with five parties and three decision branches.",
+    "locale": "en",
+    "visual_preset": "classic",
+    "theme": "dark",
+    "animation": "none",
+    "views": [
+      {
+        "id": "ch1",
+        "title": "Financing and home search",
+        "narrative": "Before touring, you know how much you can borrow. A preapproval makes your offer stronger and keeps the search on budget.",
+        "focus_nodes": [
+          "preapp",
+          "search"
+        ]
+      },
+      {
+        "id": "ch2",
+        "title": "Offer and contract",
+        "narrative": "Your Realtor writes the offer; the seller accepts, counters or rejects. Once signed, the deposit and option fee must arrive on time.",
+        "focus_nodes": [
+          "offer",
+          "reply",
+          "sign",
+          "escrow"
+        ]
+      },
+      {
+        "id": "ch3",
+        "title": "Option period, inspection and appraisal",
+        "narrative": "The busiest stretch: inspection, repair talks, appraisal and underwriting run side by side.",
+        "focus_nodes": [
+          "loan",
+          "inspect",
+          "issues",
+          "repairs",
+          "term1",
+          "appraise",
+          "lowapp",
+          "regap",
+          "term2"
+        ]
+      },
+      {
+        "id": "ch4",
+        "title": "Closing and keys",
+        "narrative": "Receive the Closing Disclosure, sign, the lender funds, you get the keys. Then file your homestead exemption.",
+        "focus_nodes": [
+          "cd",
+          "walk",
+          "close",
+          "keys"
+        ]
+      }
+    ]
+  },
+  "lanes": [
+    {
+      "id": "buyer",
+      "label": "Buyer family",
+      "role": "user"
+    },
+    {
+      "id": "realtor",
+      "label": "Realtor (Phong To)",
+      "role": "orchestrator"
+    },
+    {
+      "id": "lender",
+      "label": "Lender",
+      "role": "approver"
+    },
+    {
+      "id": "title",
+      "label": "Title company",
+      "role": "system"
+    },
+    {
+      "id": "insp",
+      "label": "Inspector / Appraiser",
+      "role": "worker"
+    }
+  ],
+  "steps": [
+    {
+      "id": "preapp",
+      "label": "1. Pre-approval",
+      "lane": "lender",
+      "kind": "start",
+      "description": "The lender reviews income, assets and credit and states how much it is willing to lend. A preapproval rests on verified documents; a prequalification may rest on unverified information (CFPB)."
+    },
+    {
+      "id": "search",
+      "label": "2. Tour homes",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Your Realtor filters homes by budget, area and school zone. You tour and choose the home you want."
+    },
+    {
+      "id": "offer",
+      "label": "3. Send offer",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Your Realtor prepares the TREC One to Four Family Residential Contract (Resale) with the Third Party Financing Addendum: price, deposit, option period days, closing date."
+    },
+    {
+      "id": "reply",
+      "label": "4. Seller reply?",
+      "lane": "realtor",
+      "kind": "decision",
+      "description": "The seller can accept, counter or reject. If countered or rejected, you review price and terms and send a new offer."
+    },
+    {
+      "id": "sign",
+      "label": "5. Sign, pay deposit",
+      "lane": "buyer",
+      "kind": "action",
+      "description": "The day both sign is the Effective Date. Under the TREC contract, within 3 days after the Effective Date the buyer must deliver earnest money and the option fee to the escrow agent. A weekend or legal holiday moves the deadline to the next business day. Missing it can cost the free right to terminate."
+    },
+    {
+      "id": "escrow",
+      "label": "6. Title opens file",
+      "lane": "title",
+      "kind": "action",
+      "description": "The title company holds the deposit, researches ownership (title) and issues a title commitment. The contract says the seller must furnish it within 20 days after the title company receives the contract. The buyer may object in writing to title defects."
+    },
+    {
+      "id": "loan",
+      "label": "7. Loan application",
+      "lane": "lender",
+      "kind": "action",
+      "description": "You submit the full loan application. The lender must send a Loan Estimate within three business days of receiving it (CFPB). Underwriting reviews the file and orders the appraisal."
+    },
+    {
+      "id": "inspect",
+      "label": "8. Home inspection",
+      "lane": "insp",
+      "kind": "action",
+      "description": "A TREC-licensed inspector checks electrical, plumbing, roof and foundation. This happens inside the option period, while you still hold the right to terminate."
+    },
+    {
+      "id": "issues",
+      "label": "Inspection OK?",
+      "lane": "buyer",
+      "kind": "decision",
+      "description": "Three paths: accept the home as is, negotiate repairs or a credit by amendment, or terminate within the option period."
+    },
+    {
+      "id": "repairs",
+      "label": "Repairs or credit",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Your Realtor sends the issue list to the seller and negotiates repairs or a credit, recorded as a contract amendment."
+    },
+    {
+      "id": "term1",
+      "label": "Terminate in option",
+      "lane": "buyer",
+      "kind": "terminal-failure",
+      "description": "Give notice of termination by 5:00 p.m. local time on the last day of the option period. Earnest money is refunded; the option fee is not."
+    },
+    {
+      "id": "appraise",
+      "label": "9. Appraisal",
+      "lane": "insp",
+      "kind": "action",
+      "description": "The lender's appraiser visits and values the home. The lender lends against that value (typically). The buyer pays the appraisal fee."
+    },
+    {
+      "id": "lowapp",
+      "label": "10. Value OK?",
+      "lane": "lender",
+      "kind": "decision",
+      "description": "If the appraisal comes in below the price there are three paths: renegotiate the price, pay the difference in cash (typically), or use the right to terminate under the Third Party Financing Addendum."
+    },
+    {
+      "id": "regap",
+      "label": "Lower price or cover",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Your Realtor asks the seller to lower the price, or you decide to cover the gap. Changes go into an amendment."
+    },
+    {
+      "id": "term2",
+      "label": "Terminate (TPFA)",
+      "lane": "buyer",
+      "kind": "terminal-failure",
+      "description": "Under Third Party Financing Addendum 2B, if the lender finds the property does not meet its requirements (including appraisal), the buyer may terminate on or before the 3rd day before the Closing Date with the lender's written statement. Earnest money is refunded."
+    },
+    {
+      "id": "cd",
+      "label": "11. Closing Disclosure",
+      "lane": "lender",
+      "kind": "action",
+      "description": "The lender finishes approval and sends the Closing Disclosure. You must receive it at least three business days before closing so you can compare it with the Loan Estimate."
+    },
+    {
+      "id": "walk",
+      "label": "12. Walk-through",
+      "lane": "buyer",
+      "kind": "action",
+      "description": "Buyers typically walk the home again before signing to confirm its condition and finished repairs. This is common practice, not a TREC or CFPB requirement."
+    },
+    {
+      "id": "close",
+      "label": "13. Sign at closing",
+      "lane": "title",
+      "kind": "action",
+      "description": "You sign at the title company and bring the down payment and closing costs. The seller signs a general warranty deed. Earnest money is applied at closing."
+    },
+    {
+      "id": "keys",
+      "label": "14. Get the keys",
+      "lane": "buyer",
+      "kind": "terminal-success",
+      "description": "The contract typically delivers possession \"upon closing and funding\". After you move in, file the homestead exemption with your county appraisal district: $140,000 off the school district taxable value; general deadline is before May 1."
+    }
+  ],
+  "transitions": [
+    {
+      "from": "preapp",
+      "to": "search"
+    },
+    {
+      "from": "search",
+      "to": "offer"
+    },
+    {
+      "from": "offer",
+      "to": "reply"
+    },
+    {
+      "from": "reply",
+      "to": "sign",
+      "label": "Accept",
+      "kind": "branch-true"
+    },
+    {
+      "from": "reply",
+      "to": "offer",
+      "label": "Counter",
+      "kind": "branch-false"
+    },
+    {
+      "from": "sign",
+      "to": "escrow"
+    },
+    {
+      "from": "sign",
+      "to": "loan"
+    },
+    {
+      "from": "sign",
+      "to": "inspect"
+    },
+    {
+      "from": "inspect",
+      "to": "issues"
+    },
+    {
+      "from": "issues",
+      "to": "cd",
+      "label": "OK",
+      "kind": "branch-true"
+    },
+    {
+      "from": "issues",
+      "to": "repairs",
+      "label": "Issues",
+      "kind": "branch-false"
+    },
+    {
+      "from": "issues",
+      "to": "term1",
+      "label": "Exit",
+      "kind": "exception"
+    },
+    {
+      "from": "repairs",
+      "to": "cd"
+    },
+    {
+      "from": "loan",
+      "to": "appraise"
+    },
+    {
+      "from": "appraise",
+      "to": "lowapp"
+    },
+    {
+      "from": "lowapp",
+      "to": "cd",
+      "label": "Yes",
+      "kind": "branch-true"
+    },
+    {
+      "from": "lowapp",
+      "to": "regap",
+      "label": "Low",
+      "kind": "branch-false"
+    },
+    {
+      "from": "lowapp",
+      "to": "term2",
+      "label": "Exit",
+      "kind": "exception"
+    },
+    {
+      "from": "regap",
+      "to": "cd"
+    },
+    {
+      "from": "escrow",
+      "to": "cd"
+    },
+    {
+      "from": "cd",
+      "to": "walk"
+    },
+    {
+      "from": "walk",
+      "to": "close"
+    },
+    {
+      "from": "close",
+      "to": "keys"
+    }
+  ]
+}

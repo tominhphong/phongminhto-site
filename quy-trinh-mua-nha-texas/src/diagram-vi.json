@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Quy trình mua nhà ở Texas",
+    "subtitle": "Nhà có sẵn (resale), mua bằng khoản vay",
+    "description": "Bản đồ 13 bước từ pre-approval đến nhận chìa khóa, 5 bên tham gia, 3 điểm rẽ nhánh.",
+    "locale": "vi",
+    "visual_preset": "classic",
+    "theme": "dark",
+    "animation": "none",
+    "views": [
+      {
+        "id": "ch1",
+        "title": "Chuẩn bị tài chính và tìm nhà",
+        "narrative": "Trước khi xem nhà, gia đình biết mình vay được bao nhiêu. Có pre-approval thì offer mạnh hơn và việc tìm nhà đúng ngân sách.",
+        "focus_nodes": [
+          "preapp",
+          "search"
+        ]
+      },
+      {
+        "id": "ch2",
+        "title": "Trả giá và ký hợp đồng",
+        "narrative": "Realtor soạn offer, người bán đồng ý, counter hoặc từ chối. Khi ký xong, tiền cọc và option fee phải nộp đúng hạn.",
+        "focus_nodes": [
+          "offer",
+          "reply",
+          "sign",
+          "escrow"
+        ]
+      },
+      {
+        "id": "ch3",
+        "title": "Option period, kiểm tra và thẩm định",
+        "narrative": "Đây là giai đoạn nhiều quyết định nhất: kiểm tra nhà, thương lượng sửa chữa, appraisal và underwriting chạy song song.",
+        "focus_nodes": [
+          "loan",
+          "inspect",
+          "issues",
+          "repairs",
+          "term1",
+          "appraise",
+          "lowapp",
+          "regap",
+          "term2"
+        ]
+      },
+      {
+        "id": "ch4",
+        "title": "Closing và nhận chìa khóa",
+        "narrative": "Nhận Closing Disclosure, ký giấy tờ, lender giải ngân, nhận chìa khóa. Sau đó nhớ nộp homestead exemption.",
+        "focus_nodes": [
+          "cd",
+          "walk",
+          "close",
+          "keys"
+        ]
+      }
+    ]
+  },
+  "lanes": [
+    {
+      "id": "buyer",
+      "label": "Gia đình mua (Buyer)",
+      "role": "user"
+    },
+    {
+      "id": "realtor",
+      "label": "Realtor (Phong To)",
+      "role": "orchestrator"
+    },
+    {
+      "id": "lender",
+      "label": "Ngân hàng cho vay (Lender)",
+      "role": "approver"
+    },
+    {
+      "id": "title",
+      "label": "Công ty Title (Title company)",
+      "role": "system"
+    },
+    {
+      "id": "insp",
+      "label": "Thanh tra / Thẩm định (Inspector, Appraiser)",
+      "role": "worker"
+    }
+  ],
+  "steps": [
+    {
+      "id": "preapp",
+      "label": "1. Pre-approval",
+      "lane": "lender",
+      "kind": "start",
+      "description": "Lender xem thu nhập, tài sản và credit của gia đình rồi cho một con số vay tối đa. Pre-approval dựa trên giấy tờ đã được kiểm tra, khác với prequalification dựa trên lời khai chưa kiểm tra (theo CFPB)."
+    },
+    {
+      "id": "search",
+      "label": "2. Tìm và xem nhà",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Realtor lọc nhà theo ngân sách, khu vực, học khu. Gia đình đi xem nhà và chọn căn muốn mua."
+    },
+    {
+      "id": "offer",
+      "label": "3. Gửi offer",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Realtor soạn hợp đồng TREC (One to Four Family Residential Contract, Resale) cùng Third Party Financing Addendum cho khoản vay: giá, tiền cọc, số ngày option period, ngày closing."
+    },
+    {
+      "id": "reply",
+      "label": "4. Seller trả lời?",
+      "lane": "realtor",
+      "kind": "decision",
+      "description": "Người bán có thể đồng ý, trả giá lại (counter) hoặc từ chối. Nếu counter hoặc từ chối, cả nhà cùng xem lại giá và điều kiện rồi gửi offer mới."
+    },
+    {
+      "id": "sign",
+      "label": "5. Ký, nộp cọc",
+      "lane": "buyer",
+      "kind": "action",
+      "description": "Ngày hai bên ký xong là Effective Date. Theo hợp đồng TREC, trong 3 ngày sau Effective Date người mua phải nộp earnest money (tiền cọc) và option fee cho escrow agent. Nếu ngày cuối rơi vào cuối tuần hoặc ngày lễ thì dời sang ngày làm việc kế tiếp. Trễ hạn có thể mất quyền hủy tự do."
+    },
+    {
+      "id": "escrow",
+      "label": "6. Title mở hồ sơ",
+      "lane": "title",
+      "kind": "action",
+      "description": "Title company giữ tiền cọc, tra lịch sử sở hữu (title) và gửi title commitment. Hợp đồng ghi người bán phải đưa commitment trong 20 ngày sau khi title company nhận hợp đồng. Người mua có thể phản đối bằng văn bản nếu title có vấn đề."
+    },
+    {
+      "id": "loan",
+      "label": "7. Nộp đơn vay",
+      "lane": "lender",
+      "kind": "action",
+      "description": "Gia đình nộp đơn vay và giấy tờ đầy đủ. Lender phải gửi Loan Estimate trong vòng 3 business days sau khi nhận đơn (CFPB). Bộ phận underwriting kiểm tra hồ sơ và đặt appraisal."
+    },
+    {
+      "id": "inspect",
+      "label": "8. Home inspection",
+      "lane": "insp",
+      "kind": "action",
+      "description": "Inspector có giấy phép TREC kiểm tra hệ thống điện, nước, mái, nền móng. Việc này làm trong option period, khi gia đình còn quyền hủy hợp đồng."
+    },
+    {
+      "id": "issues",
+      "label": "Inspection ổn?",
+      "lane": "buyer",
+      "kind": "decision",
+      "description": "Có ba hướng: chấp nhận nhà như hiện trạng, thương lượng sửa chữa hoặc credit bằng một amendment, hoặc hủy hợp đồng trong option period."
+    },
+    {
+      "id": "repairs",
+      "label": "Sửa chữa hoặc credit",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Realtor đưa danh sách vấn đề cho bên người bán và thương lượng sửa chữa hoặc một khoản credit. Thỏa thuận được ghi thành amendment cho hợp đồng."
+    },
+    {
+      "id": "term1",
+      "label": "Hủy trong option",
+      "lane": "buyer",
+      "kind": "terminal-failure",
+      "description": "Gửi thông báo hủy trước 5:00 pm giờ địa phương của ngày cuối option period. Earnest money được hoàn lại; option fee không hoàn lại."
+    },
+    {
+      "id": "appraise",
+      "label": "9. Appraisal",
+      "lane": "insp",
+      "kind": "action",
+      "description": "Appraiser do lender thuê đến xem nhà và định giá. Lender chỉ cho vay dựa trên giá trị này (thường). Gia đình trả phí appraisal."
+    },
+    {
+      "id": "lowapp",
+      "label": "10. Đủ giá?",
+      "lane": "lender",
+      "kind": "decision",
+      "description": "Nếu appraisal thấp hơn giá mua, có ba hướng: thương lượng giảm giá, gia đình bù phần chênh bằng tiền mặt (thường), hoặc dùng quyền chấm dứt theo Third Party Financing Addendum."
+    },
+    {
+      "id": "regap",
+      "label": "Giảm giá hoặc bù",
+      "lane": "realtor",
+      "kind": "action",
+      "description": "Realtor đề nghị người bán giảm giá, hoặc gia đình quyết định bù phần chênh. Mọi thay đổi ghi thành amendment."
+    },
+    {
+      "id": "term2",
+      "label": "Hủy theo TPFA",
+      "lane": "buyer",
+      "kind": "terminal-failure",
+      "description": "Theo Third Party Financing Addendum 2B, nếu lender xác định nhà không đạt yêu cầu (gồm appraisal) thì người mua có thể hủy chậm nhất ngày thứ 3 trước Closing Date, kèm văn bản của lender. Earnest money được hoàn lại."
+    },
+    {
+      "id": "cd",
+      "label": "11. Closing Disclosure",
+      "lane": "lender",
+      "kind": "action",
+      "description": "Lender duyệt xong và gửi Closing Disclosure. Luật yêu cầu gia đình nhận tối thiểu 3 business days trước closing, để đối chiếu với Loan Estimate. "
+    },
+    {
+      "id": "walk",
+      "label": "12. Walk-through",
+      "lane": "buyer",
+      "kind": "action",
+      "description": "Thường gia đình đi xem lại nhà trước khi ký, để chắc nhà còn nguyên trạng và các món sửa đã xong. Đây là thông lệ, không phải điều bắt buộc theo TREC hay CFPB."
+    },
+    {
+      "id": "close",
+      "label": "13. Ký closing",
+      "lane": "title",
+      "kind": "action",
+      "description": "Gia đình ký giấy tờ tại title company, mang theo tiền down payment và closing cost. Người bán ký general warranty deed. Earnest money được tính vào tiền mua."
+    },
+    {
+      "id": "keys",
+      "label": "14. Nhận chìa khóa",
+      "lane": "buyer",
+      "kind": "terminal-success",
+      "description": "Hợp đồng thường ghi giao nhà \"upon closing and funding\". Sau khi dọn vào ở, nộp homestead exemption tại appraisal district của county: miễn $140,000 giá trị tính thuế học khu (school district), hạn chung là trước ngày 1 tháng 5."
+    }
+  ],
+  "transitions": [
+    {
+      "from": "preapp",
+      "to": "search"
+    },
+    {
+      "from": "search",
+      "to": "offer"
+    },
+    {
+      "from": "offer",
+      "to": "reply"
+    },
+    {
+      "from": "reply",
+      "to": "sign",
+      "label": "Đồng ý",
+      "kind": "branch-true"
+    },
+    {
+      "from": "reply",
+      "to": "offer",
+      "label": "Counter",
+      "kind": "branch-false"
+    },
+    {
+      "from": "sign",
+      "to": "escrow"
+    },
+    {
+      "from": "sign",
+      "to": "loan"
+    },
+    {
+      "from": "sign",
+      "to": "inspect"
+    },
+    {
+      "from": "inspect",
+      "to": "issues"
+    },
+    {
+      "from": "issues",
+      "to": "cd",
+      "label": "Ổn",
+      "kind": "branch-true"
+    },
+    {
+      "from": "issues",
+      "to": "repairs",
+      "label": "Có lỗi",
+      "kind": "branch-false"
+    },
+    {
+      "from": "issues",
+      "to": "term1",
+      "label": "Hủy",
+      "kind": "exception"
+    },
+    {
+      "from": "repairs",
+      "to": "cd"
+    },
+    {
+      "from": "loan",
+      "to": "appraise"
+    },
+    {
+      "from": "appraise",
+      "to": "lowapp"
+    },
+    {
+      "from": "lowapp",
+      "to": "cd",
+      "label": "Đủ",
+      "kind": "branch-true"
+    },
+    {
+      "from": "lowapp",
+      "to": "regap",
+      "label": "Thấp",
+      "kind": "branch-false"
+    },
+    {
+      "from": "lowapp",
+      "to": "term2",
+      "label": "Hủy",
+      "kind": "exception"
+    },
+    {
+      "from": "regap",
+      "to": "cd"
+    },
+    {
+      "from": "escrow",
+      "to": "cd"
+    },
+    {
+      "from": "cd",
+      "to": "walk"
+    },
+    {
+      "from": "walk",
+      "to": "close"
+    },
+    {
+      "from": "close",
+      "to": "keys"
+    }
+  ]
+}

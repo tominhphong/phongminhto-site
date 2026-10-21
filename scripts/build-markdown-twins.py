@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
 ORIGIN = "https://phongminhto.com"
-DROP = ["script", "style", "noscript", "header", "footer", "nav", "form", "svg", "iframe", "button", "details"]
+DROP = ["script", "style", "noscript", "header", "footer", "nav", "form", "svg", "iframe", "button"]
 
 
 def page_files():

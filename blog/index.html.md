@@ -28,6 +28,14 @@ TREC #843757 · eXp Realty Texas
 
 [ Read Guide → ](/blog/california-vs-texas-5-khac-biet-an-cu/)
 
+BUYING GUIDE • NEW
+
+####  [ How Buying a Home in Texas Works: 14 Steps From Pre-Approval to Keys ](/quy-trinh-mua-nha-texas/)
+
+Every step of buying a resale home with a mortgage under the TREC contract: who does what, key deadlines, and the 3 common turning points.
+
+By Phong Minh To [Read →](/quy-trinh-mua-nha-texas/)
+
 TAX OPTIMIZATION • PUBLISHED
 
 ####  [ Texas Homestead Exemption Guide 2026: Step-by-Step Filing to Save Thousands Annually ](/blog/texas-homestead-exemption-guide-2026/)
@@ -99,6 +107,14 @@ Phong Minh To
 TREC #843757 · eXp Realty Texas
 
 [ Đọc bài viết → ](/blog/california-vs-texas-5-khac-biet-an-cu/)
+
+BUYING GUIDE • NEW
+
+####  [ Quy Trình Mua Nhà Ở Texas: 14 Bước Từ Vay Đến Nhận Chìa Khóa ](/quy-trinh-mua-nha-texas/)
+
+Từng bước mua nhà có sẵn bằng khoản vay theo hợp đồng TREC: ai làm gì, các mốc thời hạn, và 3 tình huống hay gặp (bị trả giá lại, kiểm tra nhà ra lỗi, thẩm định thấp).
+
+By Phong Minh To [Read →](/quy-trinh-mua-nha-texas/)
 
 TAX OPTIMIZATION • PUBLISHED
 
