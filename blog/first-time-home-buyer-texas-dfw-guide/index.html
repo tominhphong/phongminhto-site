@@ -142,7 +142,7 @@
         <span class="hidden sm:block text-xs text-slate-400 tracking-wider font-mono whitespace-nowrap">REALTOR® · TREC #843757 · EXP REALTY TEXAS</span>
       </a>
 
-      <nav class="hidden lg:flex items-center space-x-5 text-sm font-medium text-slate-300">
+      <nav class="hidden xl:flex items-center space-x-5 text-sm font-medium text-slate-300">
         <a href="/" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Trang Chủ</span>
           <span class="lang-en">Home</span>
@@ -167,14 +167,14 @@
           <button id="btn-en" onclick="setLang('en')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">EN</button>
           <button id="btn-vi" onclick="setLang('vi')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">VN</button>
         </div>
-        <a href="tel:7372429999" class="hidden xl:flex items-center whitespace-nowrap text-sm font-semibold text-slate-300 hover:text-white">
+        <a href="tel:7372429999" class="hidden 2xl:flex items-center whitespace-nowrap text-sm font-semibold text-slate-300 hover:text-white">
           <span class="text-amber-400 mr-1.5">📞</span> (737) 242-9999
         </a>
         <a href="https://tidycal.com/phongto" target="_blank" rel="noopener noreferrer" class="whitespace-nowrap px-2 sm:px-4 py-2 text-xs font-semibold sm:uppercase sm:tracking-wider text-slate-900 bg-amber-400 hover:bg-amber-300 rounded-lg transition-all shadow-sm">
           <span class="lang-vi">Đặt Lịch 1:1</span>
           <span class="lang-en">Book 1:1 Call</span>
         </a>
-        <details class="lg:hidden relative">
+        <details class="xl:hidden relative">
           <summary class="list-none cursor-pointer px-2 py-1.5 rounded-lg border border-slate-700 text-slate-200 text-lg leading-none" aria-label="Menu">&#9776;</summary>
           <div class="absolute right-0 mt-2 w-64 rounded-xl border border-slate-700 bg-slate-900 shadow-2xl text-sm font-medium text-slate-200 overflow-hidden">
         <a href="/" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
@@ -332,9 +332,7 @@
       <!-- AUTHOR BIO BOX -->
       <section class="mt-16 p-6 sm:p-8 rounded-2xl bg-slate-800/60 border border-slate-700/80">
         <div class="flex flex-col sm:flex-row items-center sm:items-start gap-6">
-          <div class="w-20 h-20 rounded-full bg-amber-400/20 text-amber-400 flex items-center justify-center font-bold text-2xl border-2 border-amber-400/40 shrink-0">
-            PT
-          </div>
+          <img src="/images/phong-to-headshot-round.webp" alt="Phong Minh To, Texas Realtor" width="80" height="80" class="w-20 h-20 rounded-full object-cover border-2 border-amber-400/40 shrink-0 bg-slate-800">
           <div>
             <h3 class="text-xl font-bold text-white flex items-center gap-2">
               Phong Minh To
@@ -433,7 +431,7 @@
     }
     (function initLang() {
       let saved = 'en';
-      try { saved = localStorage.getItem('preferred_lang') || localStorage.getItem('pmt_lang') || 'en'; } catch(e){}
+      try { saved = localStorage.getItem('preferred_lang') || localStorage.getItem('pmt_lang') || ((navigator.language||'').toLowerCase().indexOf('vi')===0?'vi':'en'); } catch(e){}
       setLang(saved);
     })();
   </script>
