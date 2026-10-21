@@ -14,6 +14,7 @@
   <meta property="og:title" content="California Sang Texas: Bảng Tính So Sánh 5 Bài Toán Tài Chính & An Cư Thực Tế Cho Gia Đình Việt | Realtor Phong To">
   <meta property="og:description" content="Đừng chỉ nhìn vào giá niêm yết nhà đất! Bóc tách chi tiết 5 biến số tài chính then chốt: Chênh lệch thuế thu nhập cá nhân 0% vs 13.3%, bài toán PITI với thuế đất và Homestead Exemption, áp lực kẹt xe, và không gian sống cho con nhỏ tại DFW & Sherman.">
   <meta property="og:image" content="https://phongminhto.com/images/cali-vs-texas/slide01-field-notes.png">
+  <meta property="og:image:alt" content="California Sang Texas: Bảng Tính So Sánh 5 Bài Toán Tài Chính & An Cư Thực Tế Cho Gia Đình Việt | Realtor Phong To">
   <meta property="og:locale" content="en_US">
   <meta property="og:locale:alternate" content="vi_VN">
 
@@ -116,7 +117,7 @@
       "name": "How much does the Texas Homestead Exemption save homeowners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The $100,000 general residence homestead exemption reduces the taxable value of your home for public school taxes, saving typical North Texas homeowners between $1,200 and $1,500 annually, while capping annual appraisal jumps at 10%."
+        "text": "The $140,000 general residence homestead exemption (raised from $100,000 by Proposition 13, November 2025) reduces the taxable value of your home for public school taxes, saving typical North Texas homeowners roughly $1,300 to $1,800 annually, while capping annual appraisal jumps at 10%."
       }
     },
     {
@@ -135,51 +136,73 @@
     html[data-lang="en"] .lang-vi { display: none !important; }
     html[data-lang="vi"] .lang-en { display: none !important; }
   </style>
+  <style>summary::-webkit-details-marker{display:none}</style>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans antialiased selection:bg-amber-400 selection:text-slate-900 min-h-screen flex flex-col justify-between">
 
   <!-- HEADER -->
   <header class="sticky top-0 z-50 backdrop-blur-md bg-slate-900/90 border-b border-slate-800">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+    <div class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
       <a href="/" class="flex flex-col">
-        <span class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
+        <span class="text-base sm:text-xl font-bold tracking-tight text-white flex items-center gap-2 whitespace-nowrap">
           Phong Minh To<span class="inline-block w-2 h-2 rounded-full bg-amber-400"></span>
         </span>
-        <span class="text-xs text-slate-400 tracking-wider font-mono">REALTOR® · TREC #843757 · EXP REALTY TEXAS</span>
+        <span class="hidden sm:block text-xs text-slate-400 tracking-wider font-mono whitespace-nowrap">REALTOR® · TREC #843757 · EXP REALTY TEXAS</span>
       </a>
 
-      <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-slate-300">
-        <a href="/" class="hover:text-amber-400 transition-colors">
+      <nav class="hidden lg:flex items-center space-x-5 text-sm font-medium text-slate-300">
+        <a href="/" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Trang Chủ</span>
           <span class="lang-en">Home</span>
         </a>
-        <a href="/blog/" class="hover:text-amber-400 transition-colors">
+        <a href="/blog/" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Tất Cả Bài Viết</span>
           <span class="lang-en">All Articles</span>
         </a>
-        <a href="/#market" class="hover:text-amber-400 transition-colors">
+        <a href="/#market" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Thị Trường Sherman/DFW</span>
           <span class="lang-en">Sherman/DFW Market</span>
         </a>
-        <a href="/#faq" class="hover:text-amber-400 transition-colors">
+        <a href="/#faq" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Hỏi Đáp</span>
           <span class="lang-en">FAQ</span>
         </a>
       </nav>
 
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-1.5 sm:gap-3 shrink-0">
         <!-- Bilingual Switcher -->
         <div class="inline-flex rounded-lg border border-slate-700 bg-slate-800/80 p-0.5 text-xs font-semibold">
-          <button id="btn-en" onclick="setLang('en')" class="px-2.5 py-1 rounded-md transition-all">EN</button>
-          <button id="btn-vi" onclick="setLang('vi')" class="px-2.5 py-1 rounded-md transition-all">VN</button>
+          <button id="btn-en" onclick="setLang('en')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">EN</button>
+          <button id="btn-vi" onclick="setLang('vi')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">VN</button>
         </div>
-        <a href="tel:7372429999" class="hidden xl:flex items-center text-sm font-semibold text-slate-300 hover:text-white">
+        <a href="tel:7372429999" class="hidden xl:flex items-center whitespace-nowrap text-sm font-semibold text-slate-300 hover:text-white">
           <span class="text-amber-400 mr-1.5">📞</span> (737) 242-9999
         </a>
-        <a href="https://tidycal.com/phongto" target="_blank" rel="noopener noreferrer" class="px-4 py-2 text-xs font-semibold uppercase tracking-wider text-slate-900 bg-amber-400 hover:bg-amber-300 rounded-lg transition-all shadow-sm">
+        <a href="https://tidycal.com/phongto" target="_blank" rel="noopener noreferrer" class="whitespace-nowrap px-2 sm:px-4 py-2 text-xs font-semibold sm:uppercase sm:tracking-wider text-slate-900 bg-amber-400 hover:bg-amber-300 rounded-lg transition-all shadow-sm">
           <span class="lang-vi">Đặt Lịch 1:1</span>
           <span class="lang-en">Book 1:1 Call</span>
         </a>
+        <details class="lg:hidden relative">
+          <summary class="list-none cursor-pointer px-2 py-1.5 rounded-lg border border-slate-700 text-slate-200 text-lg leading-none" aria-label="Menu">&#9776;</summary>
+          <div class="absolute right-0 mt-2 w-64 rounded-xl border border-slate-700 bg-slate-900 shadow-2xl text-sm font-medium text-slate-200 overflow-hidden">
+        <a href="/" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Trang Chủ</span>
+          <span class="lang-en">Home</span>
+        </a>
+        <a href="/blog/" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Tất Cả Bài Viết</span>
+          <span class="lang-en">All Articles</span>
+        </a>
+        <a href="/#market" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Thị Trường Sherman/DFW</span>
+          <span class="lang-en">Sherman/DFW Market</span>
+        </a>
+        <a href="/#faq" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Hỏi Đáp</span>
+          <span class="lang-en">FAQ</span>
+        </a>
+      </div>
+        </details>
       </div>
     </div>
   </header>
@@ -230,7 +253,7 @@
 <p>Khác biệt lớn nhất ngay từ ngày đầu đặt chân đến Texas chính là thuế thu nhập cá nhân. Hiến pháp Texas quy định mức thuế thu nhập cá nhân tiểu bang là 0%. Với một gia đình có tổng thu nhập $180,000 – $250,000/năm, khoản tiền giữ lại được sau thuế từ $15,000 đến hơn $25,000 mỗi năm tạo ra đòn bẩy tài chính cực kỳ mạnh mẽ.</p>
 
 <h2>2. Thuế Nhà Đất & Phao Cứu Sinh Homestead Exemption</h2>
-<p>Nhiều anh chị lo lắng tỷ lệ thuế đất Texas (1.8% – 2.4%) cao hơn California (khoảng 1.2% do Prop 13). Tuy nhiên, vì giá trị mua nhà tại Texas chỉ bằng 40% – 50% so với Cali, số tiền thuế tuyệt đối đóng hàng năm thường tương đương. Quan trọng hơn, chính sách Homestead Exemption cho phép miễn trừ $100,000 định giá học khu và khóa trần mức tăng định giá tối đa 10%/năm.</p>
+<p>Nhiều anh chị lo lắng tỷ lệ thuế đất Texas (1.8% – 2.4%) cao hơn California (khoảng 1.2% do Prop 13). Tuy nhiên, vì giá trị mua nhà tại Texas chỉ bằng 40% – 50% so với Cali, số tiền thuế tuyệt đối đóng hàng năm thường tương đương. Quan trọng hơn, chính sách Homestead Exemption cho phép miễn trừ $140,000 định giá học khu (tăng từ $100,000 theo Prop 13, tháng 11/2025) và khóa trần mức tăng định giá tối đa 10%/năm.</p>
 
 <h2>3. Giá Trị Thực Nhận Trên Từng Foot Vuông</h2>
 <p>Cùng một ngân sách $550,000 – $700,000, tại Cali anh chị chỉ mua được căn condo cũ hoặc townhouse diện tích khiêm tốn kèm phí HOA cao. Tại Bắc Texas (Collin, Denton, Grayson), số tiền này mang lại một căn nhà đơn lập mới xây 100%, 4 phòng ngủ, sân vườn rộng cho con cái vui chơi thỏa thích.</p>
@@ -248,7 +271,7 @@
 <p>The single largest immediate financial impact for California transplants is income tax. Texas has zero state personal income tax embedded into its state constitution. For a household earning $180,000 to $250,000 annually, keeping an additional $15,000 to $25,000 in net pay drastically enhances purchasing power.</p>
 
 <h2>2. Property Tax & The Homestead Exemption Cushion</h2>
-<p>While Texas property tax rates (typically 1.8% to 2.4%) are nominally higher than California's Prop 13 rate (around 1.1% to 1.25%), the lower entry purchase price often yields a comparable or lower absolute annual dollar tax amount. Furthermore, primary homeowners benefit from the Texas Homestead Exemption, deducting $100,000 from school district taxable valuation and capping annual assessed value increases at 10%.</p>
+<p>While Texas property tax rates (typically 1.8% to 2.4%) are nominally higher than California's Prop 13 rate (around 1.1% to 1.25%), the lower entry purchase price often yields a comparable or lower absolute annual dollar tax amount. Furthermore, primary homeowners benefit from the Texas Homestead Exemption, deducting $140,000 from school district taxable valuation (raised from $100,000 by Proposition 13, November 2025) and capping annual assessed value increases at 10%.</p>
 
 <h2>3. Purchasing Power & Square Footage</h2>
 <p>In Southern California or the Bay Area, a median price of $900,000 to $1.2M often secures an aging condo or townhouse with high HOA dues. In North Texas (Collin, Denton, and Grayson counties), $450,000 to $650,000 unlocks a newly constructed 4-bedroom single-family home on a generous lot with modern energy efficiency.</p>
@@ -308,8 +331,8 @@
             <span class="lang-en">How much does the Texas Homestead Exemption save homeowners?</span>
           </h4>
           <div class="mt-3 text-sm text-slate-300 leading-relaxed pl-6 border-l-2 border-amber-400/40">
-            <div class="lang-vi">Khoản miễn trừ $100,000 định giá học khu giúp chủ nhà tiết kiệm trực tiếp từ $1,200 đến $1,500 mỗi năm và khóa mức tăng định giá hàng năm không vượt quá 10%.</div>
-            <div class="lang-en">The $100,000 general residence homestead exemption reduces the taxable value of your home for public school taxes, saving typical North Texas homeowners between $1,200 and $1,500 annually, while capping annual appraisal jumps at 10%.</div>
+            <div class="lang-vi">Khoản miễn trừ $140,000 định giá học khu (tăng từ $100,000 theo Prop 13, tháng 11/2025) giúp chủ nhà tiết kiệm ước tính khoảng $1,300 đến $1,800 mỗi năm và khóa mức tăng định giá hàng năm không vượt quá 10%.</div>
+            <div class="lang-en">The $140,000 general residence homestead exemption (raised from $100,000 by Proposition 13, November 2025) reduces the taxable value of your home for public school taxes, saving typical North Texas homeowners roughly $1,300 to $1,800 annually, while capping annual appraisal jumps at 10%.</div>
           </div>
         </div>
 

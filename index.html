@@ -13,6 +13,7 @@
   <meta property="og:title" content="Phong Minh To · Texas Real Estate Intelligence & Advisory">
   <meta property="og:description" content="Authoritative Texas real estate market analysis, breaking housing news, relocation cost comparisons, and local advisory by Phong To (TREC #843757, eXp Realty Texas).">
   <meta property="og:image" content="https://phongminhto.com/images/hero-texas-luxury-mansion.jpg">
+  <meta property="og:image:alt" content="Phong Minh To · Texas Real Estate Intelligence & Advisory">
   <meta property="og:locale" content="en_US">
   <meta property="og:locale:alternate" content="vi_VN">
   <!-- Twitter Card -->
@@ -77,7 +78,7 @@
         "name": "Texas property taxes are higher than California; do I actually save money overall?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. While Texas property tax rates range between 1.8% to 2.4%, the total monthly PITI payment is offset by 0% personal state income tax and the Texas Homestead Exemption which caps annual taxable assessed value increases at 10% and deducts $100,000 from school district tax valuation."
+          "text": "Yes. While Texas property tax rates range between 1.8% to 2.4%, the total monthly PITI payment is offset by 0% personal state income tax and the Texas Homestead Exemption which caps annual taxable assessed value increases at 10% and deducts $140,000 from school district tax valuation (raised from $100,000 by Texas Proposition 13, approved November 2025)."
         }
       },
       {
@@ -111,52 +112,78 @@
     html[data-lang="en"] .lang-vi { display: none !important; }
     html[data-lang="vi"] .lang-en { display: none !important; }
   </style>
+  <style>summary::-webkit-details-marker{display:none}</style>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans antialiased selection:bg-amber-400 selection:text-slate-900">
   <!-- HEADER & NAVIGATION -->
   <header class="sticky top-0 z-50 backdrop-blur-md bg-slate-900/90 border-b border-slate-800">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+    <div class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
       <a href="/" class="flex flex-col">
-        <span class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
+        <span class="text-base sm:text-xl font-bold tracking-tight text-white flex items-center gap-2 whitespace-nowrap">
           Phong Minh To<span class="inline-block w-2 h-2 rounded-full bg-amber-400"></span>
         </span>
-        <span class="text-xs text-slate-400 tracking-wider font-mono">REALTOR® · TREC #843757 · eXp REALTY</span>
+        <span class="hidden sm:block text-xs text-slate-400 tracking-wider font-mono whitespace-nowrap">REALTOR® · TREC #843757 · eXp REALTY</span>
       </a>
-      <nav class="hidden md:flex items-center space-x-8 text-sm font-medium text-slate-300">
-        <a href="#market" class="hover:text-amber-400 transition-colors">
+      <nav class="hidden lg:flex items-center space-x-5 text-sm font-medium text-slate-300">
+        <a href="#market" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Thị Trường Sherman & DFW</span>
           <span class="lang-en">Sherman & DFW Market</span>
         </a>
-        <a href="/blog/" class="hover:text-amber-400 transition-colors">
+        <a href="/blog/" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Blog & Phân Tích</span>
           <span class="lang-en">Blog & Insights</span>
         </a>
-        <a href="#property-tax" class="hover:text-amber-400 transition-colors">
+        <a href="#property-tax" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Thuế & Homestead</span>
           <span class="lang-en">Tax & Homestead</span>
         </a>
-        <a href="#guide" class="hover:text-amber-400 transition-colors">
+        <a href="#guide" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Cẩm Nang 2026</span>
           <span class="lang-en">Relocation Guide</span>
         </a>
-        <a href="#faq" class="hover:text-amber-400 transition-colors">
+        <a href="#faq" class="whitespace-nowrap hover:text-amber-400 transition-colors">
           <span class="lang-vi">Hỏi Đáp (FAQ)</span>
           <span class="lang-en">FAQ</span>
         </a>
       </nav>
-      <div class="flex items-center gap-3">
+      <div class="flex items-center gap-1.5 sm:gap-3 shrink-0">
         <!-- Language Switcher Toggle -->
         <div class="inline-flex rounded-lg border border-slate-700 bg-slate-800/80 p-0.5 text-xs font-semibold">
-          <button id="btn-en" onclick="setLang('en')" class="px-2.5 py-1 rounded-md transition-all">EN</button>
-          <button id="btn-vi" onclick="setLang('vi')" class="px-2.5 py-1 rounded-md transition-all">VN</button>
+          <button id="btn-en" onclick="setLang('en')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">EN</button>
+          <button id="btn-vi" onclick="setLang('vi')" class="px-2 sm:px-2.5 py-1 rounded-md transition-all">VN</button>
         </div>
-        <a href="tel:7372429999" class="hidden xl:flex items-center text-sm font-semibold text-slate-300 hover:text-white">
+        <a href="tel:7372429999" class="hidden xl:flex items-center whitespace-nowrap text-sm font-semibold text-slate-300 hover:text-white">
           <span class="text-amber-400 mr-1.5">📞</span> (737) 242-9999
         </a>
-        <a href="https://tidycal.com/phongto" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 text-sm font-bold text-slate-900 bg-amber-400 hover:bg-amber-300 rounded-lg shadow-sm transition-all">
+        <a href="https://tidycal.com/phongto" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center whitespace-nowrap px-2 sm:px-4 py-2 text-xs sm:text-sm font-bold text-slate-900 bg-amber-400 hover:bg-amber-300 rounded-lg shadow-sm transition-all">
           <span class="lang-vi">Đặt Lịch 1:1</span>
           <span class="lang-en">Book 1:1 Call</span>
         </a>
+        <details class="lg:hidden relative">
+          <summary class="list-none cursor-pointer px-2 py-1.5 rounded-lg border border-slate-700 text-slate-200 text-lg leading-none" aria-label="Menu">&#9776;</summary>
+          <div class="absolute right-0 mt-2 w-64 rounded-xl border border-slate-700 bg-slate-900 shadow-2xl text-sm font-medium text-slate-200 overflow-hidden">
+        <a href="#market" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Thị Trường Sherman & DFW</span>
+          <span class="lang-en">Sherman & DFW Market</span>
+        </a>
+        <a href="/blog/" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Blog & Phân Tích</span>
+          <span class="lang-en">Blog & Insights</span>
+        </a>
+        <a href="#property-tax" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Thuế & Homestead</span>
+          <span class="lang-en">Tax & Homestead</span>
+        </a>
+        <a href="#guide" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Cẩm Nang 2026</span>
+          <span class="lang-en">Relocation Guide</span>
+        </a>
+        <a href="#faq" class="block px-4 py-3 hover:bg-slate-800 hover:text-amber-400">
+          <span class="lang-vi">Hỏi Đáp (FAQ)</span>
+          <span class="lang-en">FAQ</span>
+        </a>
+      </div>
+        </details>
       </div>
     </div>
   </header>
@@ -439,8 +466,8 @@
             <span class="lang-en">2. Homestead Exemption</span>
           </div>
           <p class="text-sm text-slate-400 leading-relaxed">
-            <span class="lang-vi">Chính sách miễn giảm thuế cho căn nhà chính chủ (Primary Residence), khấu trừ lên tới <strong class="text-white">$100,000</strong> giá trị chịu thuế học khu, giúp giảm từ $1,500 – $2,500+ tiền thuế mỗi năm.</span>
-            <span class="lang-en">For primary residences, Texas law grants a general homestead exemption deducting up to <strong class="text-white">$100,000</strong> from school district taxable value, saving owners $1,500 to $2,500+ every year.</span>
+            <span class="lang-vi">Chính sách miễn giảm thuế cho căn nhà chính chủ (Primary Residence), khấu trừ <strong class="text-white">$140,000</strong> giá trị chịu thuế học khu (tăng từ $100,000 theo Prop 13, tháng 11/2025), ước tính giảm khoảng $1,300 – $1,800 tiền thuế mỗi năm tùy thuế suất học khu. Người từ 65 tuổi hoặc khuyết tật được miễn thêm $60,000.</span>
+            <span class="lang-en">For primary residences, Texas law grants a general homestead exemption deducting <strong class="text-white">$140,000</strong> from school district taxable value (up from $100,000 under Proposition 13, approved November 2025), saving owners roughly $1,300 to $1,800 a year depending on the school district tax rate. Owners aged 65+ or disabled get an extra $60,000.</span>
           </p>
         </div>
 
@@ -588,8 +615,8 @@
             </span>
           </h3>
           <p class="text-slate-300 text-sm leading-relaxed pl-6">
-            <span class="lang-vi">Đối với căn nhà chính chủ (Primary Residence), chính sách Homestead Exemption tại Texas khấu trừ $100,000 giá trị thẩm định chịu thuế đối với thuế trường học (School District), giúp chủ nhà tiết kiệm trung bình từ $1,500 đến hơn $2,500 tiền thuế mỗi năm, đồng thời áp dụng mức chặn tăng giá trị chịu thuế tối đa không quá 10%/năm.</span>
-            <span class="lang-en">For designated primary residences, the Texas Homestead Exemption deducts $100,000 from the home's appraised valuation for public school district property taxes. This mechanism yields an average savings of $1,500 to $2,500+ annually in escrow tax liabilities, coupled with a mandatory 10% statutory cap on year-over-year taxable assessment increases.</span>
+            <span class="lang-vi">Đối với căn nhà chính chủ (Primary Residence), chính sách Homestead Exemption tại Texas khấu trừ $140,000 giá trị thẩm định chịu thuế đối với thuế trường học (School District), tăng từ $100,000 theo Prop 13 (tháng 11/2025), giúp chủ nhà tiết kiệm ước tính khoảng $1,300 đến $1,800 tiền thuế mỗi năm tùy thuế suất học khu, đồng thời áp dụng mức chặn tăng giá trị chịu thuế tối đa không quá 10%/năm.</span>
+            <span class="lang-en">For designated primary residences, the Texas Homestead Exemption deducts $140,000 from the home's appraised valuation for public school district property taxes (raised from $100,000 by Proposition 13, approved November 2025). This yields estimated savings of roughly $1,300 to $1,800 annually, depending on the school district tax rate in escrow tax liabilities, coupled with a mandatory 10% statutory cap on year-over-year taxable assessment increases.</span>
           </p>
         </div>
       </div>
