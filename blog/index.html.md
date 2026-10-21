@@ -28,6 +28,14 @@ TREC #843757 · eXp Realty Texas
 
 [ Read Guide → ](/blog/california-vs-texas-5-khac-biet-an-cu/)
 
+PROPERTY TAX • NEW
+
+####  [ MUD and PID Taxes in Texas: Why New Homes Cost More ](/blog/thue-mud-pid-texas-la-gi/)
+
+Extra taxes and assessments in many new Texas communities, explained simply with a worked example and questions to ask before you sign.
+
+By Phong Minh To [Read →](/blog/thue-mud-pid-texas-la-gi/)
+
 BUYING GUIDE • NEW
 
 ####  [ How Buying a Home in Texas Works: 14 Steps From Pre-Approval to Keys ](/quy-trinh-mua-nha-texas/)
@@ -107,6 +115,14 @@ Phong Minh To
 TREC #843757 · eXp Realty Texas
 
 [ Đọc bài viết → ](/blog/california-vs-texas-5-khac-biet-an-cu/)
+
+PROPERTY TAX • NEW
+
+####  [ Thuế MUD và PID là gì? Vì sao nhà mới đóng thuế cao hơn ](/blog/thue-mud-pid-texas-la-gi/)
+
+MUD và PID là thuế và phí thêm ở nhiều khu nhà mới tại Texas. Giải thích dễ hiểu, có ví dụ minh họa và câu hỏi cần hỏi trước khi ký hợp đồng.
+
+By Phong Minh To [Read →](/blog/thue-mud-pid-texas-la-gi/)
 
 BUYING GUIDE • NEW
 
