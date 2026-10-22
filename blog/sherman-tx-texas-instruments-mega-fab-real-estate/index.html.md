@@ -8,13 +8,13 @@ Source: https://phongminhto.com/blog/sherman-tx-texas-instruments-mega-fab-real-
 
 Tech Corridor • 2026-10-17 • 9 min read
 
-#  Texas Instruments $30B+ Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County
+#  Texas Instruments $40B Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County
 
 Deep dive into capital expenditure inflows, tech job creation metrics, and master-planned single-family development pipeline in North Texas semiconductor corridor.
 
 ## The Rise of the North Texas Silicon Prairie
 
-Sherman, Texas is undergoing the most monumental economic transformation in its history. Texas Instruments is investing over $30 billion across four massive 300mm wafer fabrication plants, joined by GlobiTech's $5 billion silicon wafer facility. This corridor represents the largest private manufacturing capital expenditure in Texas history.
+Sherman, Texas is undergoing the most monumental economic transformation in its history. Texas Instruments plans a potential $40 billion investment in up to four 300mm wafer fabrication plants, joined by GlobiTech's $5 billion silicon wafer facility. This corridor represents the largest private manufacturing capital expenditure in Texas history.
 
 ## Employment Multipliers & Influx of High-Income Talent
 
@@ -34,7 +34,7 @@ Sherman is located in Grayson County, approximately 45 minutes north of Plano an
 
 ####  Q2: When will Texas Instruments' new fabs be operational in Sherman?
 
-The first 300mm fab begins initial production in 2025-2026, with consecutive facility phases scheduled across the coming decade.
+The first 300mm fab (SM1) began production in December 2025, with consecutive facility phases scheduled across the coming decade.
 
 ####  Q3: Is Sherman TX suitable for Vietnamese families relocating from other states?
 
@@ -64,7 +64,7 @@ Phân tích chuyên sâu về dòng vốn đầu tư FDI, tăng trưởng việc
 
 ## Sự Trỗi Dậy Của Thung Lũng Bán Dẫn Bắc Texas
 
-Thành phố Sherman, Quận Grayson đang chứng kiến cuộc chuyển mình kinh tế lịch sử. Tập đoàn Texas Instruments (TI) đang giải ngân hơn 30 tỷ USD xây dựng 4 nhà máy sản xuất wafer 300mm thế hệ mới, cùng với nhà máy 5 tỷ USD của GlobiTech. Đây là dự án đầu tư sản xuất tư nhân lớn nhất trong toàn bộ lịch sử tiểu bang Texas.
+Thành phố Sherman, Quận Grayson đang chứng kiến cuộc chuyển mình kinh tế lịch sử. Tập đoàn Texas Instruments (TI) có kế hoạch đầu tư tới 40 tỷ USD cho tối đa 4 nhà máy sản xuất wafer 300mm thế hệ mới, cùng với nhà máy 5 tỷ USD của GlobiTech. Đây là dự án đầu tư sản xuất tư nhân lớn nhất trong toàn bộ lịch sử tiểu bang Texas.
 
 ## Lực Đẩy Việc Làm & Làn Sóng Chuyên Gia Kỹ Thuật
 
@@ -84,7 +84,7 @@ Sherman tọa lạc tại Quận Grayson, cách Plano và McKinney khoảng 45 p
 
 ####  Q2: Khi nào các nhà máy Texas Instruments tại Sherman chính thức vận hành?
 
-Nhà máy đầu tiên bắt đầu đi vào vận hành trong giai đoạn 2025–2026, và các phân kỳ tiếp theo sẽ liên tục hoàn thiện trong suốt thập kỷ này.
+Nhà máy đầu tiên (SM1) đã bắt đầu sản xuất từ tháng 12/2025, và các phân kỳ tiếp theo sẽ liên tục hoàn thiện trong suốt thập kỷ này.
 
 ####  Q3: Sherman có phù hợp cho gia đình người Việt chuyển bang về định cư không?
 

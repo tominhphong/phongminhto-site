@@ -54,7 +54,7 @@ By Phong Minh To [Read →](/blog/texas-homestead-exemption-guide-2026/)
 
 TECH CORRIDOR • PUBLISHED
 
-####  [ Texas Instruments $30B+ Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County ](/blog/sherman-tx-texas-instruments-mega-fab-real-estate/)
+####  [ Texas Instruments $40B Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County ](/blog/sherman-tx-texas-instruments-mega-fab-real-estate/)
 
 Deep dive into capital expenditure inflows, tech job creation metrics, and master-planned single-family development pipeline in North Texas semiconductor corridor.
 
@@ -72,7 +72,7 @@ By Phong Minh To [Read →](/blog/first-time-home-buyer-texas-dfw-guide/)
 
 TECH CORRIDOR • IN PRODUCTION
 
-####  Texas Instruments $30B+ Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County
+####  Texas Instruments $40B Mega-Fab: Long-Term Real Estate Impact on Sherman & Grayson County
 
 Deep dive into capital expenditure inflows, tech job creation metrics, and master-planned single-family development pipeline.
 

@@ -38,7 +38,7 @@ Tracking real-time housing inventory, builder rate buydowns, and the macroeconom
 
 ### Sherman & Denison Mega-Fab
 
-Texas Instruments ($30B investment) and GlobiTech mega-fabs are driving substantial housing demand, single-family developments, and rental yields across Grayson County.
+Texas Instruments (potential $40B investment) and GlobiTech mega-fabs are driving substantial housing demand, single-family developments, and rental yields across Grayson County.
 
 🏡 TOP SCHOOLS & SUBURBS
 
@@ -60,7 +60,7 @@ Objective analysis, verified market data, and fiduciary guidance authored by lic
 
 SHERMAN & DENISON FOCUS
 
-###  Sherman TX Housing Market & The Texas Instruments $30B Mega-Fab Guide
+###  Sherman TX Housing Market & The Texas Instruments $40B Mega-Fab Guide
 
 Analyzing direct job creation, infrastructure expansion, housing supply constraints, and long-term rental appreciation across Grayson County driven by TI and GlobiTech fabs.
 
@@ -130,7 +130,7 @@ Authoritative answers and practical guidance from Texas Realtor Phong To for int
 
 ###  Q: What should buyers know about purchasing homes in Sherman TX near Texas Instruments?
 
-The combined $30+ billion semiconductor megaprojects from Texas Instruments and GlobiTech are driving substantial tech employment and infrastructure expansion across Grayson County. Prospective buyers should focus on properties with seamless connectivity to the US-75 corridor, verify municipal zoning regulations, evaluate Sherman ISD school ratings, and model realistic long-term rental cash flows.
+The combined potential $40+ billion semiconductor megaprojects from Texas Instruments and GlobiTech are driving substantial tech employment and infrastructure expansion across Grayson County. Prospective buyers should focus on properties with seamless connectivity to the US-75 corridor, verify municipal zoning regulations, evaluate Sherman ISD school ratings, and model realistic long-term rental cash flows.
 
 ###  Q: How should buyers relocating from California to Texas calculate their true monthly PITI budget?
 
@@ -198,7 +198,7 @@ Theo dõi sát các chỉ số nguồn cung, chính sách hỗ trợ từ builde
 
 ### Sherman & Denison Mega-Fab
 
-Dự án nhà máy bán dẫn Texas Instruments ($30B) và GlobiTech đang tạo lực đẩy mạnh mẽ cho nhu cầu an cư và cho thuê tại Grayson County.
+Dự án nhà máy bán dẫn Texas Instruments (tới 40 tỷ USD) và GlobiTech đang tạo lực đẩy mạnh mẽ cho nhu cầu an cư và cho thuê tại Grayson County.
 
 🏡 HỌC KHU & KHU ĐÔ THỊ MỚI
 
@@ -222,7 +222,7 @@ TIÊU ĐIỂM SHERMAN & DENISON
 
 ###  Nhà Đất Sherman TX & Làn Sóng Siêu Nhà Máy Bán Dẫn Texas Instruments 2026
 
-Bóc tách tác động việc làm từ đại dự án $30 tỷ USD của Texas Instruments và GlobiTech đến hạ tầng giao thông, giá nhà đất và tiềm năng dòng tiền cho thuê tại Grayson County.
+Bóc tách tác động việc làm từ đại dự án tới 40 tỷ USD của Texas Instruments và GlobiTech đến hạ tầng giao thông, giá nhà đất và tiềm năng dòng tiền cho thuê tại Grayson County.
 
 Bởi: Phong To · TREC #843757 [ Tư vấn khu vực → ](https://tidycal.com/phongto)
 
@@ -290,7 +290,7 @@ Những giải đáp trực tiếp, minh bạch từ chuyên viên BĐS Phong To
 
 ###  Q: Mua nhà tại Sherman TX gần nhà máy Texas Instruments cần lưu ý gì?
 
-Đại dự án nhà máy bán dẫn $30 tỷ USD của Texas Instruments và GlobiTech đang thúc đẩy việc làm và tăng trưởng hạ tầng mạnh mẽ tại Grayson County. Khi mua nhà tại Sherman, người mua nên ưu tiên các khu vực có hạ tầng kết nối thuận tiện với trục US-75, kiểm tra kỹ quy hoạch phân vùng (zoning), tốc độ phát triển của học khu Sherman ISD và biên độ sinh lời dòng tiền cho thuê dài hạn.
+Đại dự án nhà máy bán dẫn tới 40 tỷ USD của Texas Instruments và GlobiTech đang thúc đẩy việc làm và tăng trưởng hạ tầng mạnh mẽ tại Grayson County. Khi mua nhà tại Sherman, người mua nên ưu tiên các khu vực có hạ tầng kết nối thuận tiện với trục US-75, kiểm tra kỹ quy hoạch phân vùng (zoning), tốc độ phát triển của học khu Sherman ISD và biên độ sinh lời dòng tiền cho thuê dài hạn.
 
 ###  Q: Chuyển từ California về Texas cần tính toán chi phí dòng tiền PITI như thế nào?
 
