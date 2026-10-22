@@ -108,6 +108,7 @@ ${ld(howto)}${ld(agent)}${ld(crumbs)}
     header summary{min-width:44px;padding-left:0;padding-right:0;min-height:44px;display:flex;align-items:center;justify-content:center}
     #btn-en,#btn-vi{min-height:44px}
     @media (max-width:420px){header .gap-1\.5{gap:4px}header .px-2{padding-left:6px;padding-right:6px}}</style>
+  <script src="/webmcp.js" defer></script>
 </head>
 <body class="bg-slate-900 text-slate-100 font-sans antialiased selection:bg-amber-400 selection:text-slate-900 min-h-screen flex flex-col justify-between">
 
