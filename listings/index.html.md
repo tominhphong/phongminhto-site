@@ -22,6 +22,10 @@ Nhà đã qua sử dụng. Giá hiện tại $359,999, giảm $100,001 so với 
 
 Nhà đã qua sử dụng. Giá hiện tại $340,000, giảm $92,500 so với $432,500. Listing courtesy of Bryan Lynch, DHS Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
 
+### [Arlington, TX 76012: 4 phòng ngủ, 4 phòng tắm, 2,812 sqft](/listings/arlington-4-bed-2812-sqft-home/)
+
+Nhà đã qua sử dụng. Giá hiện tại $388,000, giảm $87,000 so với $475,000. Listing courtesy of Sean Hale, Kind Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
+
 ### [Royse City, TX 75189: 4 phòng ngủ, 2 phòng tắm, 1,680 sqft](/listings/royse-city-4-bed-home/)
 
 Nhà đã qua sử dụng. Giá hiện tại $255,000, giảm $80,000 so với $335,000. Listing courtesy of Rachael Pitts, Texas Premier Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
@@ -126,6 +130,22 @@ Nhà mới xây. Giá hiện tại $449,000, giảm $50,000 so với $499,000. L
 
 Nhà mới xây. Giá hiện tại $452,492, giảm $29,500 so với $481,992. Listing courtesy of Patrick Mcgrath, Meritage Homes Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
 
+### [Lakehaven, Farmersville, TX 75442: 4 phòng ngủ, 3 phòng tắm, 2,363 sqft](/listings/farmersville-lakehaven-new-build-4-bed-2363-sqft-home/)
+
+Nhà mới xây. Giá hiện tại $332,808, giảm $27,000 so với $359,808. Listing courtesy of Patrick Mcgrath, Meritage Homes Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
+
+### [Parks at Foster Crossing, Anna, TX 75409: 4 phòng ngủ, 2 phòng tắm, 1,550 sqft](/listings/anna-parks-at-foster-crossing-new-build-4-bed-home/)
+
+Nhà mới xây. Giá hiện tại $314,424, giảm $24,500 so với $338,924. Listing courtesy of Patrick Mcgrath, Meritage Homes Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
+
+### [Windmore, Princeton, TX 75407: 4 phòng ngủ, 2.5 phòng tắm, 3,072 sqft](/listings/princeton-windmore-new-build-4-bed-3072-sqft-home/)
+
+Nhà mới xây. Giá hiện tại $402,639, giảm $15,000 so với $417,639. Listing courtesy of Patrick Mcgrath, Meritage Homes Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
+
+### [Lakehaven, Farmersville, TX 75442: 4 phòng ngủ, 3 phòng tắm, 2,059 sqft](/listings/farmersville-lakehaven-new-build-4-bed-2059-sqft-home/)
+
+Nhà mới xây. Giá hiện tại $294,990, giảm $13,353 so với $308,343. Listing courtesy of Patrick Mcgrath, Meritage Homes Realty. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
+
 ### [Bel Air Village, Sherman, TX 75090: 4 phòng ngủ, 2.5 phòng tắm, 2,222 sqft](/listings/sherman-bel-air-village-new-build-4-bed-home/)
 
 Nhà mới xây. Giá hiện tại $286,990, giảm $13,000 so với $299,990. Listing courtesy of David Clinton, D.R. Horton, AMERICA'S Builder. Giá và tình trạng tính đến ngày 21 tháng 11 năm 2026.
@@ -184,6 +204,10 @@ Nhà đã qua sử dụng. Giá hiện tại $449,900, giảm $50,000 so với $
 
 Nhà đã qua sử dụng. Giá hiện tại $429,000, giảm $50,000 so với $479,000. Listing courtesy of Linda Glenn, Century 21 Realty Partners. Giá và tình trạng tính đến ngày 15 tháng 11 năm 2026.
 
+### [Rosenberg, TX 77471: 3 phòng ngủ, 2 phòng tắm, 2,388 sqft](/listings/rosenberg-3-bed-home/)
+
+Nhà đã qua sử dụng. Giá hiện tại $319,900, giảm $50,000 so với $369,900. Listing courtesy of Sharanda Mozart, JLA Realty. Giá và tình trạng tính đến ngày 15 tháng 11 năm 2026.
+
 ---
 
 ## English version
@@ -196,6 +220,7 @@ Phong To watches Texas listings (Dallas-Fort Worth, North Texas and the Houston 
 - [Hillside Manor, Midlothian, TX 76065](/listings/midlothian-hillside-manor-4-bed-home/): Resale, 4 bed, 4 bath, 2,692 sq ft. Now $450,000, down $104,900 from $554,900. As of November 21, 2026.
 - [Dallas, TX 75215](/listings/dallas-4-bed-home/): Resale, 4 bed, 3 bath, 2,028 sq ft. Now $359,999, down $100,001 from $460,000. As of November 21, 2026.
 - [Arlington, TX 76012](/listings/arlington-4-bed-home/): Resale, 4 bed, 3 bath, 2,515 sq ft. Now $340,000, down $92,500 from $432,500. As of November 21, 2026.
+- [Arlington, TX 76012](/listings/arlington-4-bed-2812-sqft-home/): Resale, 4 bed, 4 bath, 2,812 sq ft. Now $388,000, down $87,000 from $475,000. As of November 21, 2026.
 - [Royse City, TX 75189](/listings/royse-city-4-bed-home/): Resale, 4 bed, 2 bath, 1,680 sq ft. Now $255,000, down $80,000 from $335,000. As of November 21, 2026.
 - [McKinney, TX 75069](/listings/mckinney-2-bed-home/): Resale, 2 bed, 1 bath, 1,740 sq ft. Now $325,000, down $74,998 from $399,998. As of November 21, 2026.
 - [DeSoto, TX 75115](/listings/desoto-3-bed-home/): Resale, 3 bed, 3 bath, 2,268 sq ft. Now $289,000, down $71,000 from $360,000. As of November 21, 2026.
@@ -222,6 +247,10 @@ Phong To watches Texas listings (Dallas-Fort Worth, North Texas and the Houston 
 - [Celina, TX 75009](/listings/celina-4-bed-home/): Resale, 4 bed, 3 bath, 3,263 sq ft. Now $500,000, down $50,000 from $550,000. As of November 21, 2026.
 - [Lisbon Heights, Dallas, TX 75216](/listings/dallas-lisbon-heights-new-build-4-bed-home/): New build, 4 bed, 4 bath, 2,600 sq ft. Now $449,000, down $50,000 from $499,000. As of November 21, 2026.
 - [Eastridge, Princeton, TX 75071](/listings/princeton-eastridge-new-build-5-bed-home/): New build, 5 bed, 4 bath, 3,429 sq ft. Now $452,492, down $29,500 from $481,992. As of November 21, 2026.
+- [Lakehaven, Farmersville, TX 75442](/listings/farmersville-lakehaven-new-build-4-bed-2363-sqft-home/): New build, 4 bed, 3 bath, 2,363 sq ft. Now $332,808, down $27,000 from $359,808. As of November 21, 2026.
+- [Parks at Foster Crossing, Anna, TX 75409](/listings/anna-parks-at-foster-crossing-new-build-4-bed-home/): New build, 4 bed, 2 bath, 1,550 sq ft. Now $314,424, down $24,500 from $338,924. As of November 21, 2026.
+- [Windmore, Princeton, TX 75407](/listings/princeton-windmore-new-build-4-bed-3072-sqft-home/): New build, 4 bed, 2.5 bath, 3,072 sq ft. Now $402,639, down $15,000 from $417,639. As of November 21, 2026.
+- [Lakehaven, Farmersville, TX 75442](/listings/farmersville-lakehaven-new-build-4-bed-2059-sqft-home/): New build, 4 bed, 3 bath, 2,059 sq ft. Now $294,990, down $13,353 from $308,343. As of November 21, 2026.
 - [Bel Air Village, Sherman, TX 75090](/listings/sherman-bel-air-village-new-build-4-bed-home/): New build, 4 bed, 2.5 bath, 2,222 sq ft. Now $286,990, down $13,000 from $299,990. As of November 21, 2026.
 
 **Houston area**
@@ -239,6 +268,7 @@ Phong To watches Texas listings (Dallas-Fort Worth, North Texas and the Houston 
 - [Novelli, Santa Fe, TX 77510](/listings/santa-fe-novelli-4-bed-home/): Resale, 4 bed, 4 bath, 3,172 sq ft. Now $499,000, down $50,999 from $549,999. As of November 15, 2026.
 - [Cane Island, Katy, TX 77493](/listings/katy-cane-island-4-bed-home/): Resale, 4 bed, 4 bath, 2,888 sq ft. Now $449,900, down $50,000 from $499,900. As of November 18, 2026.
 - [The Woodlands, TX 77381](/listings/the-woodlands-4-bed-home/): Resale, 4 bed, 3 bath, 2,075 sq ft. Now $429,000, down $50,000 from $479,000. As of November 15, 2026.
+- [Rosenberg, TX 77471](/listings/rosenberg-3-bed-home/): Resale, 3 bed, 2 bath, 2,388 sq ft. Now $319,900, down $50,000 from $369,900. As of November 15, 2026.
 
 ## Liên hệ / Contact
 
