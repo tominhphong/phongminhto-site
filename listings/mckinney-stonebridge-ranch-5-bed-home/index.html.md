@@ -10,11 +10,13 @@ Source: https://phongminhto.com/listings/mckinney-stonebridge-ranch-5-bed-home/
 
 Listing courtesy of Marc Vita, Ebby Halliday Realtors.
 
-Thông tin được xem là đáng tin cậy nhưng không được bảo đảm; vui lòng xác minh với listing agent. Giá và tình trạng nhà tính đến ngày 3 tháng 11 năm 2026.
+Thông tin được xem là đáng tin cậy nhưng không được bảo đảm; vui lòng xác minh với listing agent. Giá và tình trạng nhà tính đến ngày 21 tháng 11 năm 2026.
 
 Căn nhà 2 tầng xây bằng gạch năm 2005, nằm trong khu Fountainview thuộc Stonebridge Ranch, thành phố McKinney, Texas (Collin County, ZIP 75072). Nhà có 5 phòng ngủ, 3 phòng tắm đầy đủ và 2,979 sqft diện tích ở. Giá hiện tại là **$479,000**, thấp hơn **$56,900 (khoảng 10.6%)** so với giá chào bán ban đầu $535,900, tức khoảng $161 mỗi sqft.
 
 Người bán còn tặng **$3,000 tiền thay thảm (carpet allowance) khi có offer được chấp nhận** (theo mô tả của listing; anh chị nên xác nhận lại điều kiện với listing agent).
+
+_Tình trạng trên MLS: Đã nhận offer có điều kiện (Active Contingent); hỏi Phong xem người bán còn nhận offer dự phòng không._
 
 ## Ảnh / Photos
 
@@ -50,8 +52,8 @@ Người bán còn tặng **$3,000 tiền thay thảm (carpet allowance) khi có
 | Lô đất | Dưới 0.5 acre; lô bên trong, hình dạng không đều, có cảnh quan, hệ thống tưới tự động |
 | Vị trí | Fountainview, Stonebridge Ranch, McKinney, Collin County, TX 75072 |
 | Học khu | McKinney ISD (theo listing) |
-| Số ngày rao bán | 58 (tính đến ngày 3 tháng 11 năm 2026) |
-| Tình trạng | Đang bán (Active) |
+| Số ngày rao bán | 58 (tính đến ngày 21 tháng 11 năm 2026) |
+| Tình trạng | Đã nhận offer có điều kiện (Active Contingent); hỏi Phong xem người bán còn nhận offer dự phòng không |
 
 ## Lịch sử giảm giá
 
@@ -59,7 +61,7 @@ Người bán còn tặng **$3,000 tiền thay thảm (carpet allowance) khi có
 2. Lần giảm thứ nhất: còn $495,000 (giảm $40,900)
 3. Lần giảm gần nhất: còn $479,000 (giảm $16,000), ghi nhận ngày 29 tháng 10 năm 2026
 
-Tổng cộng giảm $56,900 so với giá ban đầu. Tính đến ngày 3 tháng 11 năm 2026, nhà đã rao bán 58 ngày.
+Tổng cộng giảm $56,900 so với giá ban đầu. Tính đến ngày 21 tháng 11 năm 2026, nhà đã rao bán 58 ngày.
 
 ## Từng phòng trong nhà
 
@@ -127,7 +129,7 @@ Phong To, REALTOR® của eXp Realty (TREC #843757), hẹn lịch xem nhà và t
 
 Listing courtesy of Marc Vita, Ebby Halliday Realtors.
 
-Thông tin được xem là đáng tin cậy nhưng không được bảo đảm; vui lòng xác minh với listing agent. Giá và tình trạng nhà tính đến ngày 3 tháng 11 năm 2026.
+Thông tin được xem là đáng tin cậy nhưng không được bảo đảm; vui lòng xác minh với listing agent. Giá và tình trạng nhà tính đến ngày 21 tháng 11 năm 2026.
 
 ---
 
@@ -139,11 +141,13 @@ Thông tin được xem là đáng tin cậy nhưng không được bảo đảm
 
 Listing courtesy of Marc Vita, Ebby Halliday Realtors.
 
-Information deemed reliable but not guaranteed; verify with the listing agent. Price and availability as of November 3, 2026.
+Information deemed reliable but not guaranteed; verify with the listing agent. Price and availability as of November 21, 2026.
 
 This two-story traditional brick home sits in the Fountainview section of Stonebridge Ranch in McKinney, Texas (Collin County, ZIP 75072). It has 5 bedrooms, 3 full bathrooms and 2,979 square feet of living space, and it was built in 2005. The current list price is **$479,000**, which is **$56,900 (about 10.6%) below the original list price of $535,900**. At today's price that works out to roughly $161 per square foot.
 
 The seller also advertises a **$3,000 carpet allowance with an acceptable offer** (stated in the listing remarks; confirm the terms with the listing agent).
+
+_MLS status: Active Contingent (an offer with conditions has been accepted; ask whether backup offers are taken)._
 
 ### Key facts
 
@@ -164,8 +168,8 @@ The seller also advertises a **$3,000 carpet allowance with an acceptable offer*
 | Lot | Less than 0.5 acre; interior, irregular, landscaped, sprinkler system |
 | Location | Fountainview in Stonebridge Ranch, McKinney, Collin County, TX 75072 |
 | School district | McKinney ISD (per listing remarks) |
-| Days on market | 58 (as of November 3, 2026) |
-| Status | Active |
+| Days on market | 58 (as of November 21, 2026) |
+| Status | Active Contingent (an offer with conditions has been accepted; ask whether backup offers are taken) |
 
 ### Price-drop history
 
@@ -173,7 +177,7 @@ The seller also advertises a **$3,000 carpet allowance with an acceptable offer*
 2. First reduction: to $495,000 (down $40,900)
 3. Latest reduction: to $479,000 (down $16,000), recorded October 29, 2026
 
-Total reduction: $56,900 from the original price. The home had been on the market 58 days as of November 3, 2026.
+Total reduction: $56,900 from the original price. The home had been on the market 58 days as of November 21, 2026.
 
 ### The home, room by room
 
@@ -247,4 +251,4 @@ Listing courtesy of Marc Vita, Ebby Halliday Realtors.
 
 Phong To, REALTOR®, eXp Realty, TREC #843757. [TREC Information About Brokerage Services](https://www.trec.texas.gov/forms/information-about-brokerage-services) · [TREC Consumer Protection Notice](https://www.trec.texas.gov/forms/consumer-protection-notice)
 
-Information deemed reliable but not guaranteed; verify with the listing agent. Price and availability as of November 3, 2026.
+Information deemed reliable but not guaranteed; verify with the listing agent. Price and availability as of November 21, 2026.

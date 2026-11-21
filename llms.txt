@@ -15,9 +15,50 @@ Disclaimer: all information on this site is for reference only and is not financ
 - [MUD and PID Taxes in Texas: Why New Homes Cost More](https://phongminhto.com/blog/thue-mud-pid-texas-la-gi/): Plain-language bilingual guide to Texas MUD taxes and PID assessments in new-construction homes: what they pay for, how they change yearly tax and monthly escrow (illustrative example), buyer notices required by Water Code 49.452 and Property Code 5.014, and how to look up a specific home.
 
 ## Listings
-- [Texas Price-Drop Homes](https://phongminhto.com/listings/): North Texas homes with recent price reductions, each checked against MLS data, with price history, facts, photos and FAQ.
-- [McKinney Stonebridge Ranch 5-bed home](https://phongminhto.com/listings/mckinney-stonebridge-ranch-5-bed-home/): 2005 brick resale, 5 bed, 3 bath, 2,979 sq ft in Fountainview, Stonebridge Ranch, McKinney TX 75072; now $479,000, down $56,900 from $535,900; McKinney ISD per listing.
+- [Texas Price-Drop Homes](https://phongminhto.com/listings/): Texas homes with recent price reductions in Dallas-Fort Worth, North Texas and the Houston area, each checked against MLS data, with price history, facts, photos and FAQ.
+- [Hillside Manor, Midlothian 4-bed home](https://phongminhto.com/listings/midlothian-hillside-manor-4-bed-home/): resale, 4 bed, 4 bath, 2,692 sq ft in Hillside Manor, Midlothian, TX 76065; now $450,000, down $104,900 from $554,900.
+- [Dallas 4-bed home](https://phongminhto.com/listings/dallas-4-bed-home/): resale, 4 bed, 3 bath, 2,028 sq ft in Dallas, TX 75215; now $359,999, down $100,001 from $460,000.
+- [Arlington 4-bed home](https://phongminhto.com/listings/arlington-4-bed-home/): resale, 4 bed, 3 bath, 2,515 sq ft in Arlington, TX 76012; now $340,000, down $92,500 from $432,500.
+- [Royse City 4-bed home](https://phongminhto.com/listings/royse-city-4-bed-home/): resale, 4 bed, 2 bath, 1,680 sq ft in Royse City, TX 75189; now $255,000, down $80,000 from $335,000.
+- [McKinney 2-bed home](https://phongminhto.com/listings/mckinney-2-bed-home/): resale, 2 bed, 1 bath, 1,740 sq ft in McKinney, TX 75069; now $325,000, down $74,998 from $399,998.
+- [DeSoto 3-bed home](https://phongminhto.com/listings/desoto-3-bed-home/): resale, 3 bed, 3 bath, 2,268 sq ft in DeSoto, TX 75115; now $289,000, down $71,000 from $360,000.
+- [Fort Worth 2-bed home](https://phongminhto.com/listings/fort-worth-2-bed-home/): resale, 2 bed, 2 bath, 1,509 sq ft in Fort Worth, TX 76112; now $195,000, down $70,000 from $265,000.
+- [Lakehaven, Farmersville 4-bed home](https://phongminhto.com/listings/farmersville-lakehaven-new-build-4-bed-home/): new build, 4 bed, 3 bath, 2,961 sq ft in Lakehaven, Farmersville, TX 75442; now $356,690, down $69,500 from $426,190.
+- [Lakehaven, Farmersville 5-bed home](https://phongminhto.com/listings/farmersville-lakehaven-new-build-5-bed-home/): new build, 5 bed, 4 bath, 3,428 sq ft in Lakehaven, Farmersville, TX 75442; now $387,597, down $69,500 from $457,097.
+- [DeSoto 4-bed home](https://phongminhto.com/listings/desoto-4-bed-home/): resale, 4 bed, 3 bath, 2,725 sq ft in DeSoto, TX 75115; now $379,900, down $69,100 from $449,000.
 - [Princeton Windmore new build 4-bed home](https://phongminhto.com/listings/princeton-windmore-new-build-4-bed-home/): 2026 Meritage Homes Haskell plan, 4 bed, 2.5 bath, 3,072 sq ft in Windmore, Princeton TX 75407; now $392,990, down $67,144 from $460,134; Princeton ISD; builder incentives as of Nov 2026.
+- [Highland Hills, Decatur 4-bed home](https://phongminhto.com/listings/decatur-highland-hills-4-bed-home/): resale, 4 bed, 3 bath, 2,832 sq ft in Highland Hills, Decatur, TX 76234; now $499,900, down $65,100 from $565,000.
+- [Trenton 5-bed home](https://phongminhto.com/listings/trenton-5-bed-home/): resale, 5 bed, 3 bath, 1,981 sq ft in Trenton, TX 75490; now $465,000, down $65,000 from $530,000.
+- [Watersbend South, Fort Worth 3-bed home](https://phongminhto.com/listings/fort-worth-watersbend-south-3-bed-home/): resale, 3 bed, 2 bath, 1,689 sq ft in Watersbend South, Fort Worth, TX 76131; now $249,000, down $65,000 from $314,000.
+- [Corinth 3-bed home](https://phongminhto.com/listings/corinth-3-bed-home/): resale, 3 bed, 3 bath, 2,203 sq ft in Corinth, TX 76209; now $378,987, down $62,093 from $441,080.
+- [High Country #, Carrollton 4-bed home](https://phongminhto.com/listings/carrollton-high-country-4-bed-home/): resale, 4 bed, 3 bath, 2,705 sq ft in High Country #, Carrollton, TX 75007; now $479,000, down $61,000 from $540,000.
+- [Terrace Landing, Fort Worth 4-bed home](https://phongminhto.com/listings/fort-worth-terrace-landing-4-bed-home/): resale, 4 bed, 3 bath, 2,462 sq ft in Terrace Landing, Fort Worth, TX 76179; now $300,000, down $60,000 from $360,000.
+- [Sherman 4-bed home](https://phongminhto.com/listings/sherman-4-bed-home/): resale, 4 bed, 3 bath, 2,260 sq ft in Sherman, TX 75092; now $323,700, down $59,000 from $382,700.
+- [McKinney Stonebridge Ranch 5-bed home](https://phongminhto.com/listings/mckinney-stonebridge-ranch-5-bed-home/): 2005 brick resale, 5 bed, 3 bath, 2,979 sq ft in Fountainview, Stonebridge Ranch, McKinney TX 75072; now $479,000, down $56,900 from $535,900; McKinney ISD per listing; Active Contingent.
+- [Mendoza, Tioga 3-bed home](https://phongminhto.com/listings/tioga-mendoza-3-bed-home/): resale, 3 bed, 2 bath, 2,299 sq ft in Mendoza, Tioga, TX 76271; now $395,000, down $55,000 from $450,000.
+- [Magnolia, Royse City 4-bed home](https://phongminhto.com/listings/royse-city-magnolia-4-bed-home/): resale, 4 bed, 2 bath, 1,891 sq ft in Magnolia, Royse City, TX 75189; now $259,900, down $55,000 from $314,900.
+- [Plano 4-bed home](https://phongminhto.com/listings/plano-4-bed-home/): resale, 4 bed, 2 bath, 1,956 sq ft in Plano, TX 75093; now $388,000, down $52,000 from $440,000.
+- [Sleepy Hollow, Irving 4-bed home](https://phongminhto.com/listings/irving-sleepy-hollow-4-bed-home/): resale, 4 bed, 2 bath, 2,195 sq ft in Sleepy Hollow, Irving, TX 75061; now $415,000, down $50,000 from $465,000.
+- [Sherman 5-bed home](https://phongminhto.com/listings/sherman-5-bed-home/): resale, 5 bed, 4 bath, 3,002 sq ft in Sherman, TX 75092; now $429,900, down $50,000 from $479,900.
+- [Wellington, Fort Worth 5-bed home](https://phongminhto.com/listings/fort-worth-wellington-5-bed-home/): resale, 5 bed, 4 bath, 3,053 sq ft in Wellington, Fort Worth, TX 76052; now $499,900, down $50,000 from $549,900.
+- [Frisco 5-bed home](https://phongminhto.com/listings/frisco-5-bed-home/): resale, 5 bed, 3 bath, 3,147 sq ft in Frisco, TX 75033; now $480,000, down $50,000 from $530,000.
+- [Celina 4-bed home](https://phongminhto.com/listings/celina-4-bed-home/): resale, 4 bed, 3 bath, 3,263 sq ft in Celina, TX 75009; now $500,000, down $50,000 from $550,000.
+- [Lisbon Heights, Dallas 4-bed home](https://phongminhto.com/listings/dallas-lisbon-heights-new-build-4-bed-home/): new build, 4 bed, 4 bath, 2,600 sq ft in Lisbon Heights, Dallas, TX 75216; now $449,000, down $50,000 from $499,000.
+- [Eastridge, Princeton 5-bed home](https://phongminhto.com/listings/princeton-eastridge-new-build-5-bed-home/): new build, 5 bed, 4 bath, 3,429 sq ft in Eastridge, Princeton, TX 75071; now $452,492, down $29,500 from $481,992.
+- [Bel Air Village, Sherman 4-bed home](https://phongminhto.com/listings/sherman-bel-air-village-new-build-4-bed-home/): new build, 4 bed, 2.5 bath, 2,222 sq ft in Bel Air Village, Sherman, TX 75090; now $286,990, down $13,000 from $299,990.
+- [Willis 5-bed home](https://phongminhto.com/listings/willis-5-bed-home/): resale, 5 bed, 4 bath, 2,577 sq ft in Willis, TX 77318; now $369,900, down $115,100 from $485,000.
+- [Brooke Smith, Houston 4-bed home](https://phongminhto.com/listings/houston-brooke-smith-4-bed-home/): resale, 4 bed, 3 bath, 1,788 sq ft in Brooke Smith, Houston, TX 77009; now $487,000, down $112,000 from $599,000.
+- [Cypress 3-bed home](https://phongminhto.com/listings/cypress-3-bed-home/): resale, 3 bed, 2 bath, 2,668 sq ft in Cypress, TX 77429; now $415,000, down $80,000 from $495,000.
+- [Spring Trails, Spring 4-bed home](https://phongminhto.com/listings/spring-trails-4-bed-home/): resale, 4 bed, 3 bath, 2,644 sq ft in Spring Trails, Spring, TX 77386; now $359,900, down $75,100 from $435,000.
+- [Galveston 3-bed home](https://phongminhto.com/listings/galveston-3-bed-home/): resale, 3 bed, 2 bath, 1,248 sq ft in Galveston, TX 77554; now $459,900, down $65,100 from $525,000.
+- [Galveston 2-bed home](https://phongminhto.com/listings/galveston-2-bed-home/): resale, 2 bed, 1 bath, 1,040 sq ft in Galveston, TX 77551; now $224,900, down $65,000 from $289,900.
+- [Jersey Village Country Club, Jersey Village 4-bed home](https://phongminhto.com/listings/jersey-village-country-club-4-bed-home/): resale, 4 bed, 2 bath, 3,267 sq ft in Jersey Village Country Club, Jersey Village, TX 77040; now $390,000, down $60,000 from $450,000.
+- [New Caney 4-bed home](https://phongminhto.com/listings/new-caney-4-bed-home/): resale, 4 bed, 4 bath, 2,707 sq ft in New Caney, TX 77357; now $339,900, down $60,000 from $399,900.
+- [McClendon Park Village, Houston 3-bed home](https://phongminhto.com/listings/houston-mcclendon-park-village-3-bed-home/): resale, 3 bed, 3 bath, 1,908 sq ft in McClendon Park Village, Houston, TX 77082; now $299,000, down $56,000 from $355,000.
+- [Sunterra, Katy 4-bed home](https://phongminhto.com/listings/katy-sunterra-4-bed-home/): resale, 4 bed, 3 bath, 3,202 sq ft in Sunterra, Katy, TX 77493; now $460,000, down $55,000 from $515,000.
+- [Novelli, Santa Fe 4-bed home](https://phongminhto.com/listings/santa-fe-novelli-4-bed-home/): resale, 4 bed, 4 bath, 3,172 sq ft in Novelli, Santa Fe, TX 77510; now $499,000, down $50,999 from $549,999.
+- [Cane Island, Katy 4-bed home](https://phongminhto.com/listings/katy-cane-island-4-bed-home/): resale, 4 bed, 4 bath, 2,888 sq ft in Cane Island, Katy, TX 77493; now $449,900, down $50,000 from $499,900.
+- [The Woodlands 4-bed home](https://phongminhto.com/listings/the-woodlands-4-bed-home/): resale, 4 bed, 3 bath, 2,075 sq ft in The Woodlands, TX 77381; now $429,000, down $50,000 from $479,000.
 
 ## Site
 - [Home](https://phongminhto.com/): services, market overview, property-tax basics, FAQ and the free 2026 Texas relocation guide (PDF).
